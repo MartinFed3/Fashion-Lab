@@ -196,7 +196,7 @@
 
 .grid_item1 {
     grid-area: item1;
-    background-image: url("../images/ben-scott-bCnM5P0gcpY-unsplash.jpg");
+    background-image: url("./images/ben-scott-bCnM5P0gcpY-unsplash.jpg");
     height: 800px;
     background-size: cover;
     
@@ -208,7 +208,7 @@
 
 .grid_item2 {
     grid-area: item2;
-    background-image: url("../images/don-b-fv9CZAD90XQ-unsplash.jpg");
+    background-image: url("./images/don-b-fv9CZAD90XQ-unsplash.jpg");
 
     background-size: cover;
 
@@ -218,7 +218,7 @@
 
 .grid_item3 {
     grid-area: item3;
-    background-image: url("../images/carrousel.jpg");
+    background-image: url("./images/carrousel.jpg");
 
     background-size: cover;
     background-repeat: no-repeat;
