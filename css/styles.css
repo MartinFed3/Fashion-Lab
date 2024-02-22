@@ -218,7 +218,7 @@
 
 .grid_item3 {
     grid-area: item3;
-    background-image: url("../images//images/carrousel.jpg");
+    background-image: url("../images/carrousel.jpg");
 
     background-size: cover;
     background-repeat: no-repeat;
